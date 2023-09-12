@@ -2,7 +2,6 @@
 
 <h1>Hi there</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Beginner in the world of development. :beginner: </h3>  
 
 :technologist:
 <div>
